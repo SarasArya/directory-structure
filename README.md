@@ -1,1 +1,1 @@
-run by typing npm start <foldername>
+run by typing npm start `<folderName>`
