@@ -1,0 +1,12 @@
+{
+  "name": "video_streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
